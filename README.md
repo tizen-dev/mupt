@@ -5,7 +5,10 @@ Minecraft Tellraw Generator
   * Networking
     - [Join Message](#player_join)
     - [Leave Message](#player_leave)
-
+  * Deaths
+    - [Death by entity](#player_death-by-entity)
+    - [Hitting the ground too hard while escaping from entity](#player_death-by-entity-fall)
+    - [Drowning while escaping from entity](#player_death-by-entity-drown)
 ### player_join
 Simulates a player join message
 
