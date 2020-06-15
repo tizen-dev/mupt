@@ -1,6 +1,8 @@
 # mupt
 Minecraft Tellraw Generator
 
+* ###player+join
+
 ### player_join
 Simulates a player join message
 
