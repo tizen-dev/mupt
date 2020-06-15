@@ -16,6 +16,7 @@ Minecraft Tellraw Generator
  - [ ] Use fetch api to get json files
 - [ ] Add all deaths
 - [ ] Add networking messages
+- [ ] Move to custom prototype
 
 ### player_join
 Simulates a player join message
