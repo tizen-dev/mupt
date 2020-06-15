@@ -9,6 +9,11 @@ Minecraft Tellraw Generator
     - [Death by entity](#player_death-by-entity)
     - [Hitting the ground too hard while escaping from entity](#player_death-by-entity-fall)
     - [Drowning while escaping from entity](#player_death-by-entity-drown)
+    
+# Checklist
+- [ ] Add all deaths
+- [x] Make it look better
+
 ### player_join
 Simulates a player join message
 
