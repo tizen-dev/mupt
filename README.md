@@ -1,7 +1,8 @@
 # mupt
 Minecraft Tellraw Generator
 
-- [Player Join Message](#player_join)
+- [Player]()
+- - [Join Message](#player_join)
 
 ### player_join
 Simulates a player join message
