@@ -2,7 +2,9 @@
 Minecraft Tellraw Generator
 
 * Player
-  - [Join Message](#player_join)
+  * Networking
+    - [Join Message](#player_join)
+    - [Leave Message](#player_leave)
 
 ### player_join
 Simulates a player join message
