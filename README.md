@@ -11,8 +11,11 @@ Minecraft Tellraw Generator
     - [Drowning while escaping from entity](#player_death-by-entity-drown)
     
 # Checklist
-- [ ] Add all deaths
 - [x] Make it look better
+- [ ] Use json files for templates, instead of switch statements
+ - [ ] Use fetch api to get json files
+- [ ] Add all deaths
+- [ ] Add networking messages
 
 ### player_join
 Simulates a player join message
