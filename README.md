@@ -17,6 +17,7 @@ Minecraft Tellraw Generator
 - [ ] Add all deaths
 - [ ] Add networking messages
 - [ ] Move to custom prototype
+- [ ] Rewrite code
 
 ### player_join
 Simulates a player join message
